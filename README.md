@@ -2,9 +2,6 @@
 
 Bu repo Kodluyoruz Front End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![image](https://github.com/YamaPrograms/kodluyoruzilkrepo/assets/154276892/8d999461-64f1-4a22-ae7a-a58deef61df4)
-
-
 ## Installation
 
 Öncelikle Projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
